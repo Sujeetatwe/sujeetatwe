@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Sujeet Atwe
 
-<!--
-**Sujeetatwe/sujeetatwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 Building MERN, Next.js & Spring Boot Applications  
+🤖 Interested in AI & Automation  
+📍 Pune, India  
 
-Here are some ideas to get you started:
+## Tech Stack
+- React.js
+- Node.js
+- MongoDB
+- Express.js
+- Next.js
+- Java
+- Spring Boot
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- QR Restaurant Ordering System
+- Student Management System
+- Task Management System
+- AI Research Project
