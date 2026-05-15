@@ -63,12 +63,6 @@
 
 <div align="center">
 
-<!-- GitHub Stats — uses github-readme-stats (pin your own Vercel deploy for 100% uptime) -->
-![Sujeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujeetatwe&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&border_color=21262d&icon_color=00d4aa&title_color=00d4aa&text_color=8b949e)
-
-<!-- Top Languages — add &hide=html,css if you want to filter out markup -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeetatwe&layout=compact&langs_count=8&count_private=true&theme=dark&bg_color=0d1117&border_color=21262d&title_color=00d4aa&text_color=8b949e)
-
 <!-- Streak Stats — reliable alternative host -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sujeetatwe&theme=dark&background=0d1117&border=21262d&ring=00d4aa&fire=f59e0b&currStreakLabel=00d4aa)
 
